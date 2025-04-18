@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/35e0f698-e91e-4aa7-acfb-31da09fcfcf8)
+![image](https://github.com/user-attachments/assets/b5eac3e2-eb02-4f29-a604-47a8264f23b6)
 
 # 🛠️ DCShell v.1
 DCShell adalah sebuah tools berbasis Python yang dirancang untuk mempermudah interaksi dengan webshell dalam skenario pengujian penetrasi (pentest). Tools ini menyediakan antarmuka berbasis terminal yang ramah pengguna serta mendukung dua mode eksekusi shell, yaitu:
