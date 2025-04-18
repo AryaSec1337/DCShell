@@ -34,3 +34,4 @@ DCShell ditujukan untuk mempermudah eksekusi perintah sistem di server target me
 8. Final
    ![image](https://github.com/user-attachments/assets/78668640-8523-4d1f-8291-28cedee69adc)
 
+The DCShell project is licensed under MIT license which basically means you have to give me credit if you want to redistribute or modify it.
